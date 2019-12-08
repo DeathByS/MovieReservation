@@ -6,6 +6,7 @@
 
 # 담당 역할
 * 영화 예매 정보 등록, 수정, 삭제 기능 구현
+* 영화 예매 Entity, DAO 작성
 
 
 ![1](https://user-images.githubusercontent.com/46432795/70389999-01c67580-1a0a-11ea-9419-221f84049992.png)
